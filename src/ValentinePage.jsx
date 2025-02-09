@@ -19,7 +19,7 @@ export default function ValentinePage() {
   };
 
   const handleYesClick = () => {
-    navigate("/yesPG"); // Navigate to yesPG page
+    navigate("/valentine-nd/yesPG"); // Navigate to yesPG page
   };
 
   return (
