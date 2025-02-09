@@ -6,8 +6,8 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<ValentinePage />} />
-        <Route path="/yesPG" element={<YesPG />} />
+        <Route path="/valentine-nd/" element={<ValentinePage />} />
+        <Route path="/valentine-nd/yesPG" element={<YesPG />} />
       </Routes>
     </Router>
   );
